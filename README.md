@@ -1,2 +1,20 @@
 # yii2-area
-Yii2中国省市区三级联动
+Yii2 area extension (基于yii2的省市区三级联动扩展)
+
+
+## 安装
+
+
+执行
+
+```
+$ php composer.phar require lonelythinker/yii2-upload "*"
+```
+
+或者添加
+
+```
+"lonelythinker/yii2-upload": "*"
+```
+
+到  `composer.json` 文件的```require``` 块。
